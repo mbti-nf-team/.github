@@ -17,7 +17,7 @@
     <td align="center">
         <p>INFJ</p>
       <a href="https://github.com/saseungmin">
-        <img src="../images/harang-profile.jpeg" width="150x;" alt=""/>
+        <img src="https://github.com/mbti-nf-team/.github/blob/main/images/harang-profile.jpeg" width="150x;" alt=""/>
         <br />
         <p>
           <b>Harang</b>
@@ -26,8 +26,8 @@
       <small>⚛️ Front-End Developer</small>
     </td>
     <td align="center">
-    <p>ENFP</p><a href="https://github.com/jooseyoung"><img src="../images/mock-profile.png" width="150px;" alt=""/><br /><p><b>Jenny</b></p></a><small>🎨 Product Designer</small>
+    <p>ENFP</p><a href="https://github.com/jooseyoung"><img src="https://github.com/mbti-nf-team/.github/blob/main/images/mock-profile.png" width="150px;" alt=""/><br /><p><b>Jenny</b></p></a><small>🎨 Product Designer</small>
     </td>
-    <td align="center"><p>INFP</p><a href="https://github.com/ejolie"><img src="../images/marron-profile.png" width="150px;" alt=""/><br /><p><b>Marron</b></p></a><small>👩🏻‍💻 Back-End Developer</small></td>
+    <td align="center"><p>INFP</p><a href="https://github.com/ejolie"><img src="https://github.com/mbti-nf-team/.github/blob/main/images/marron-profile.png" width="150px;" alt=""/><br /><p><b>Marron</b></p></a><small>👩🏻‍💻 Back-End Developer</small></td>
   </tr>
 </table>
