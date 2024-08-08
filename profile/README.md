@@ -1,3 +1,5 @@
+![banner](../images/nf-team.PNG)
+
 # MBTI "NF" team
 
 <p align="center">
@@ -12,7 +14,11 @@
   </a>
 </p>
 
-<table width="100%" align="center">
+<div align="center">
+  <img src="../images/profile.PNG" width="50%" alt=""/>
+</div>
+
+<table align="center" width="100%">
   <tr>
     <td align="center"><p>INFJ</p><a href="https://github.com/saseungmin"><img src="https://github.com/mbti-nf-team/.github/blob/main/images/harang-profile.jpeg" width="150x;" alt=""/><br /><p><b>Harang</b></p></a><small>⚛️ Front-End Developer</small></td>
     <td align="center"><p>ENFP</p><a href="https://github.com/jooseyoung"><img src="https://github.com/mbti-nf-team/.github/blob/main/images/mock-profile.png" width="150px;" alt=""/><br /><p><b>Jenny</b></p></a><small>🎨 Product Designer</small></td>
